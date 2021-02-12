@@ -1,2 +1,4 @@
-# markdownsyntax
-day2 markdown syntaxe for kits 
+# Markdown syntax
+## heading2
+### heading 3
+##### heading 6
