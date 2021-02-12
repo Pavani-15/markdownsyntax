@@ -64,5 +64,5 @@ printf("hello world");
 ## github
 [GIT HUB](https://github.com/Pavani-15/markdownsyntax/edit/main/README.md)
 ## image
-|[blue](https://github.com/Pavani-15/markdownsyntax/blob/master/img1.jpg)
+![blue](https://github.com/Pavani-15/markdownsyntax/blob/master/img1.jpg)
 
