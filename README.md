@@ -49,5 +49,10 @@ print("hello")
 print("hello")
 ```
 ## task Insert a code of hello in c
-```HELLO```
+```
+void main()
+{
+printf("hello world");
+}
+```
 
