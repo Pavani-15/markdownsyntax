@@ -45,7 +45,9 @@ print("hello")
     + cse-b
 - civil
 ## code
-`python
+```python
 print("hello")
-`
+```
+## task Insert a code of hello in c
+```HELLO```
 
