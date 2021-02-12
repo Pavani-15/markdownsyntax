@@ -66,4 +66,4 @@ printf("hello world");
 ## image
 ![blue](https://github.com/Pavani-15/markdownsyntax/blob/master/img1.jpg)
 ## inserting videos
-[![video original]()](https://www.youtube.com/channel/UCqVDpXKLmKeBU_yyt_QkItQ)
+[![video original](https://img.youtube.com/vi/doI-Pm5bOl0/0.jpj)](https://www.youtube.com/watch?v=doI-Pm5bOl0)
