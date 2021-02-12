@@ -19,3 +19,13 @@ __*ece*__
 >> pavani
 >>> meghana
 >>>> hima
+### Ordered List
+1. ECE
+  1. ECE-A
+  2. ECE-B
+2. EEE
+3. CSE
+  1. CSE-A
+  2. CSE-B
+  3. CSE-C
+  
