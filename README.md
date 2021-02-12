@@ -44,4 +44,8 @@ print("hello")
     + cse-a
     + cse-b
 - civil
+## code
+`python
+print("hello")
+`
 
