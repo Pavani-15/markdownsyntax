@@ -28,4 +28,5 @@ __*ece*__
   1. CSE-A
   2. CSE-B
   3. CSE-C
+4. CIVIL
   
