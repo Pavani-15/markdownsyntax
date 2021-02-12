@@ -65,4 +65,5 @@ printf("hello world");
 [GIT HUB](https://github.com/Pavani-15/markdownsyntax/edit/main/README.md)
 ## image
 ![blue](https://github.com/Pavani-15/markdownsyntax/blob/master/img1.jpg)
-
+## inserting videos
+[![video original]()](https://www.youtube.com/channel/UCqVDpXKLmKeBU_yyt_QkItQ)
