@@ -33,6 +33,12 @@ __*ece*__
 - ece
     - ece-a
     - ece-b
+### Code
+`
+python
+print("hello")
+`
+
 - eee
 - cse
     + cse-a
